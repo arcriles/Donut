@@ -1,4 +1,5 @@
 Donut OUGH
 
-https://user-images.githubusercontent.com/30470009/177979070-346c74d1-61f5-473b-8b19-3e9bbefcc10d.mp4
 
+
+![Donut](https://user-images.githubusercontent.com/30470009/177979178-32923998-7990-4103-9f8f-b1b52d7d53e1.gif)
