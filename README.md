@@ -1,4 +1,4 @@
-Donut OUGH
+Donut OUGH!
 
 a simple Donut program
 
